@@ -1,5 +1,5 @@
 # Data-Analysis-with-Python
-** This Repository will help you to understand the Data Analysis with Python in detail. And tells you More Information from the very Beginner level.**
+**This Repository will help you to understand the Data Analysis with Python in detail. And tells you More Information from the very Beginner level.**
 
 ## Installation
 Use Google Colaboratory or Jupyter Notebook to run this file.
